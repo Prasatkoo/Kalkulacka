@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LogicMathTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-05-17T15:04:34" hostname="DESKTOP-20M7L7H" time="0.028">
+  <properties/>
+  <testcase name="divide()" classname="LogicMathTest" time="0.021"/>
+  <testcase name="factorial()" classname="LogicMathTest" time="0.001"/>
+  <testcase name="plus()" classname="LogicMathTest" time="0.001"/>
+  <testcase name="minus()" classname="LogicMathTest" time="0.0"/>
+  <testcase name="power()" classname="LogicMathTest" time="0.001"/>
+  <testcase name="times()" classname="LogicMathTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
